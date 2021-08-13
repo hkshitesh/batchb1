@@ -6,6 +6,8 @@ public class MyClass {
 		System.out.println("Hello DevOps This is Jenkins Lab");
 		System.out.println("This is jenkins demo");
 
+# tesing manual editing
+
 	}
 
 }
